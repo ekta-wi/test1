@@ -25,7 +25,7 @@ SECRET_KEY = '@1(7*k7w0z6t=u+gs@r*3zgm+!l!@u-vpgh2!44a!@n%dp*^lj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ekta.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'ekta.pythonanywhere.com']
 
 
 # Application definition
